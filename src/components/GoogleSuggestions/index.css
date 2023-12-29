@@ -1,0 +1,30 @@
+.bgContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  width: 100%;
+}
+.image1 {
+  height: 50px;
+  width: 160px;
+}
+.insideContainer {
+  display: flex;
+  flex-direction: column;
+  border-radius: 9px;
+}
+.inside1 {
+  display: flex;
+  flex-direction: row;
+}
+.image2 {
+  height: 30px;
+  width: 50px;
+}
+.overallContainer {
+  display: flex;
+  flex-direction: column;
+}

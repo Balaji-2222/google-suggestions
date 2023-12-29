@@ -1,0 +1,17 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.para {
+  font-size: 14px;
+  color: #475569;
+}
+.arrow {
+  height: 20px;
+  width: 23px;
+}
+.button1 {
+  background-color: transparent;
+  border-width: 0px;
+}
